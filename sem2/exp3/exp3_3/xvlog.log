@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/media/sohail/sohails/verilog_examples/sem2/exp3/exp3_3/staticclass.sv" into library work
+ERROR: [VRFC 10-3435] illegal reference to non-static 'packet_id' from static function [/media/sohail/sohails/verilog_examples/sem2/exp3/exp3_3/staticclass.sv:10]
+INFO: [VRFC 10-311] analyzing module sv_prop
+ERROR: [VRFC 10-8530] module 'sv_prop' is ignored due to previous errors [/media/sohail/sohails/verilog_examples/sem2/exp3/exp3_3/staticclass.sv:15]

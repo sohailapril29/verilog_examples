@@ -1,0 +1,10 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /media/sohail/sohails/vivado/Vivado/2024.2/bin/unwrapped/lnx64.o/xelab multilevel 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-2991] 'b2' is not declared under prefix 'c1' [/media/sohail/sohails/verilog_examples/sem2/exp4/task3_Multilevel/multilevel.sv:47]
+ERROR: [VRFC 10-2991] 'display_3' is not declared under prefix 'c1' [/media/sohail/sohails/verilog_examples/sem2/exp4/task3_Multilevel/multilevel.sv:54]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
