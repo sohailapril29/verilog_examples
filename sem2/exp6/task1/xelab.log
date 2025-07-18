@@ -1,0 +1,11 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /media/sohail/sohails/vivado/Vivado/2024.2/bin/unwrapped/lnx64.o/xelab class_name 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-2989] 'tr' is not declared [/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv:20]
+ERROR: [VRFC 10-2989] 'tr' is not declared [/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv:21]
+ERROR: [VRFC 10-2989] 'tr' is not declared [/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv:22]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv" into library work
+INFO: [VRFC 10-311] analyzing module class_name
+ERROR: [VRFC 10-3086] access to local member 'id' from outside a class context is illegal [/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv:21]
+ERROR: [VRFC 10-8530] module 'class_name' is ignored due to previous errors [/media/sohail/sohails/verilog_examples/sem2/exp6/test.sv:14]
