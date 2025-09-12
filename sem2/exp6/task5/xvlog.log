@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/media/sohail/sohails/verilog_examples/sem2/exp6/task5/test.sv" into library work
+ERROR: [VRFC 10-3085] access to local member 'display' from derived class context is illegal [/media/sohail/sohails/verilog_examples/sem2/exp6/task5/test.sv:24]
+INFO: [VRFC 10-311] analyzing module module_name
+ERROR: [VRFC 10-4982] syntax error near 't1' [/media/sohail/sohails/verilog_examples/sem2/exp6/task5/test.sv:38]
+ERROR: [VRFC 10-8530] module 'module_name' is ignored due to previous errors [/media/sohail/sohails/verilog_examples/sem2/exp6/task5/test.sv:33]

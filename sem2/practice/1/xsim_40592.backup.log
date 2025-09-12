@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# xsim v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Sep 13 00:31:45 2025
+# Process ID         : 40592
+# Current directory  : /media/sohail/sohails/verilog_examples/sem2/practice/1
+# Command line       : xsim -mode tcl -source {xsim.dir/work.tb/xsim_script.tcl}
+# Log file           : /media/sohail/sohails/verilog_examples/sem2/practice/1/xsim.log
+# Journal file       : /media/sohail/sohails/verilog_examples/sem2/practice/1/xsim.jou
+# Running On         : sohail-Inspiron-3501
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 3798.603 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8041 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 12336 MB
+# Available Virtual  : 8104 MB
+#-----------------------------------------------------------
+source xsim.dir/work.tb/xsim_script.tcl
+# xsim {work.tb} -autoloadwcfg
+Time resolution is 1 ps
+exit
+INFO: [Common 17-206] Exiting xsim at Sat Sep 13 00:31:51 2025...
