@@ -1,3 +1,5 @@
+//test
+
 class packet;
 bit [31:0] addr;
 bit [31:0] data;
